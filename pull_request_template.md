@@ -27,6 +27,10 @@ Please provide a list of unit tests and functional tests that have been added.
 
 Please link to the HowTo document on Confluence for cross-testing.
 
+## Functional test results (if any)
+
+link to the job related to the workflow functionnal test if relevant
+
 ## Comments (Optional)
 
 Please include any information that may be useful for understanding, testing, or reviewing the feature or its implementation.
