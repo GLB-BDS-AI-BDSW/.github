@@ -29,7 +29,7 @@ Please link to the HowTo document on Confluence for cross-testing.
 
 ## Functional test results (if any)
 
-link to the job related to the workflow functionnal test if relevant
+link to the job related to the workflow functional test if relevant
 
 ## Comments (Optional)
 
